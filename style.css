@@ -137,6 +137,6 @@ en contact.html*/
 }
 
 .section-contact-link{
-    text-decoration: line;
+    text-decoration: underline;
     text-decoration-color:black ;
 }
