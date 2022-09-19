@@ -44,11 +44,11 @@
     text-decoration: none;
 }
 
-.portada-navegation-ul-li-contact{
+.portada-navegation-ul-li-green{
     margin: 5px;
 }
 
-.portada-navegation-ul-li-contact a{
+.portada-navegation-ul-li-green a{
     background-color: greenyellow;
     color: white;
     padding: 5px 15px;
@@ -64,6 +64,8 @@
 .portada-image-img{
     width: 80%;
     max-height: 185px;
+    object-fit: cover;
+    object-position: 0 80%;
 }
 
 /* .portada-title{
@@ -118,6 +120,7 @@ INICIO LOGO/SECTION */
 .section-information > p {
     text-indent: 15px;
     margin-bottom: 10px;
+    width: 85%;
 }
 
 
